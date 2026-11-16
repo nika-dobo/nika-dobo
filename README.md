@@ -53,11 +53,13 @@
 | :--- | :--- | :--- | :--- |
 | **CIPHER//50 — Escape Room** | React 18, Tailwind, Vite, API | Interactive web-engineering escape room built for a hackathon with serverless API endpoints. | [Live](https://hakaton-escape-room-v2.vercel.app) · [Code](https://github.com/nika-dobo/Hakaton-Escape-Room-v2) |
 | **Python Learn Platform** | React 19, Tailwind v4, Context API | Interactive Python learning hub with structured lessons, quizzes, coding practice, and progress tracking. | [Live](https://python-learn-self.vercel.app) · [Code](https://github.com/nika-dobo/python_learn) |
+| **BoholVista — Travel & Booking** | React 19, Tailwind v4, Python FastAPI, SQLite | Full-stack eco-tour discovery and booking CRUD app with REST API, Pytest suite, and local fallback. | [Code](https://github.com/nika-dobo/BoholVista) |
+| **Salt Restaurant — Terrace & Bar** | React 18, Tailwind, React Router | Bilingual (`KA`/`EN`) restaurant web app with filterable menu, gallery lightbox, and reservation modal. | [Portfolio Hub](https://github.com/nika-dobo/myProjects) |
 | **SoundShift** | Node.js, Express, Socket.io | Real-time 2D browser social-deduction audio game using WebSockets. | [Code](https://github.com/nika-dobo/SoundShift) |
 | **Product Store CRUD** | React 19, Tailwind v4, Vite | Supermarket inventory & shopping cart app with full CRUD (Add/Edit/Delete), search, price filters, sorting, and pagination. | [Portfolio Hub](https://github.com/nika-dobo/myProjects) · [Source](https://github.com/nika-dobo/homework0) |
 | **Weather Dashboard SPA** | React 19, React Router, Tailwind v4 | Multi-route weather application powered by WeatherAPI with context state and search history timeline. | [Portfolio Hub](https://github.com/nika-dobo/myProjects) · [Source](https://github.com/nika-dobo/homework0) |
 | **Escape Room v1** | Python, HTML/JS, Automated Tests | Hackathon v1 featuring a Python backend, admin panel, and client/admin test suites. | [Live](https://hakaton-escape-room-v1.onrender.com) · [Code](https://github.com/nika-dobo/Hakaton-Escape-Room-v1) |
-| **All Web Projects (`myProjects`)** | HTML, CSS, JS, React | Curated portfolio hub indexing **53 web projects** (20 Big · 9 Medium · 24 Small). | [Explore Repo](https://github.com/nika-dobo/myProjects) |
+| **All Web Projects (`myProjects`)** | HTML, CSS, JS, React | Curated portfolio hub indexing **55 web projects** (22 Big · 9 Medium · 24 Small). | [Explore Repo](https://github.com/nika-dobo/myProjects) |
 
 ---
 
